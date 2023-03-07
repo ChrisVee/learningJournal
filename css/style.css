@@ -185,6 +185,7 @@ h2,
 .profile-pic {
     height: 182px;
     width: 182px;
+    border-radius: 50%;
 }
 
 /*PADDING*/
