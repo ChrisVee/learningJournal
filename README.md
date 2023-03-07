@@ -1,5 +1,7 @@
 I built this learning journal using HTML, CSS (grid, flex), and will add some JS soon.
 
-live site: https://lovely-treacle-48f946.netlify.app/
+live site: https://gregarious-gingersnap-662c20.netlify.app/
 
-![image](https://user-images.githubusercontent.com/26408789/223492253-19c24244-d31f-4ca0-b644-8942579cd8cb.png)
+![image](https://user-images.githubusercontent.com/26408789/223503082-cd1e2717-acb7-40f9-91cb-b92f30d2a1b2.png)
+
+
