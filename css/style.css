@@ -134,6 +134,7 @@ h2,
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 1.5em;
     margin-bottom: 1.6em;
+    max-width: 950px;
 }
 
 .blog-feed img {
