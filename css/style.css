@@ -70,6 +70,14 @@ a {
     color: inherit;
  }
 
+ .demoLinks {
+    color: blue;
+ }
+
+ .blog:hover {
+    background-color: yellow;
+ }
+
 /*NAVBAR*/
 
 .nav{
@@ -144,7 +152,7 @@ a {
 .blog-feed img {
     width: 100%;
     height: 200px;
-    object-fit: contain;
+    object-fit: cover;
 }
 
 /*FOOTER*/
