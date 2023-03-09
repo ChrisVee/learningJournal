@@ -78,6 +78,13 @@ a {
     background-color: yellow;
  }
 
+<<<<<<< HEAD
+=======
+ .blog {
+    transition: color 0.3s ease;
+ }
+
+>>>>>>> 79e52c0 (hover effects)
 /*NAVBAR*/
 
 .nav{
