@@ -98,6 +98,7 @@ a {
   justify-items: center;
   align-items: center;
   background-color: white;
+  
 }
 
 .logo img {
@@ -198,7 +199,7 @@ a {
 }
 
 .main-post img {
-    width: 100%;
+    width: 200px;
     height: auto;
     object-fit: cover;
     padding: 0; 
@@ -211,10 +212,6 @@ a {
 
 .main-post p {
     padding-top: 1.2em;
-}
-
-.main-post-text {
-    padding: 1em;
 }
 
 /*ABOUT ME PAGE*/
@@ -249,4 +246,5 @@ a {
         flex-direction: row;
         column-gap: 40px;
     }
+
 }
