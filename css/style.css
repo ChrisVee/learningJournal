@@ -14,6 +14,10 @@ html, body, h1, h2 {
     font-family: 'Source Sans Pro';
 }
 
+header, #main-post, .about-content{
+    padding: 0 1.2em;
+}
+
 /*TYPOGRAPHY*/
 h1,
 h2,
@@ -84,6 +88,10 @@ a {
 
 /*NAVBAR*/
 
+.nav {
+    padding: 0 1.2em;
+}
+
 .nav{
   display: flex;
   justify-content: space-between;
@@ -146,6 +154,11 @@ a {
 }
 
 /*BLOG FEED SECTION*/
+
+.recent-posts{
+    text-align: center; 
+}
+
 .blog-feed {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -157,6 +170,10 @@ a {
     width: 100%;
     height: 200px;
     object-fit: cover;
+}
+
+.blog {
+    padding: 1em 1em;
 }
 
 /*FOOTER*/
@@ -188,6 +205,14 @@ a {
     padding-top: 2em;
 }
 
+.main-post h1 {
+    padding-top: 1em;
+}
+
+.main-post p {
+    padding-top: 1.2em;
+}
+
 .main-post-text {
     padding: 1em;
 }
@@ -209,28 +234,6 @@ a {
     width: 182px;
     border-radius: 50%;
 }
-
-/*PADDING*/
-.nav {
-    padding: 0 1.2em;
-}
-
-.main-post h1 {
-    padding-top: 1em;
-}
-
-.main-post p {
-    padding-top: 1.2em;
-}
-
-header, #main-post, .about-content{
-    padding: 0 1.2em;
-}
-
-.recent-posts{
-    text-align: center; 
-}
-
 
 /*MEDIA QUERIES*/
 
