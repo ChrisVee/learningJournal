@@ -1,4 +1,5 @@
-I built a learning journal using HTML, CSS (grid, flex), and Javascript. I'm using this to document my progress while completing the Scrimba Frontend Developer Bootcamp.
+I built a learning journal using HTML, CSS (grid, flex), and Javascript. 
+I'm using this to document my progress while completing the Scrimba Frontend Developer Bootcamp.
 
 live site: https://chris-viglietta-learning-journal.netlify.app/
 
